@@ -1,4 +1,4 @@
 var artist = ["Bruno Mars"]
 
-var playlist = { artist : "24K Magic"}
+var playlist = { [artist] : "24K Magic"}
 
