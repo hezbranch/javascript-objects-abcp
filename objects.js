@@ -4,7 +4,7 @@ var song = ['Grenade']
 
 var playlist = { [artist] : song}
 
-function updatePlaylist(playlist, song, artist){
+function updatePlaylist(playlist, artist, song){
 var myPlaylist = { artist:[song]}
 
 }
