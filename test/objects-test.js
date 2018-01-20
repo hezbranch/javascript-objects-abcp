@@ -27,7 +27,7 @@ describe('objects', () => {
       playlist['My Bloody Valentine'] = 'Sometimes'
     })
 
-    it('adds the `artistName: songTitle` key-value pair to `playlist`', () => {
+    it('adds the `artistName: songTitle` key-value pair to `playlist`', () => {objects.js
       updatePlaylist(playlist, 'Phil Ochs', "Here's to the State of Mississippi")
 
       expect(playlist).
