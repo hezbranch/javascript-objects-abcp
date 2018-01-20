@@ -4,11 +4,11 @@ var song = ['Grenade']
 
 var playlist = { [artist] : song}
 
-function updatePlaylist(object, key, value){
+function updatePlaylist(playlist, key, value){
 var myPlaylist = { artist:[song]}
 
 }
 
-function removeFromPlaylist(object, artist) {
+function removeFromPlaylist(playlist, artist) {
 delete playlist[artist]
 }
