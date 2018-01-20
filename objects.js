@@ -8,3 +8,5 @@ function updatePlaylist(object, key, value){
 var myPlaylist =  { artist:[song]}
 
 }
+
+function removeFromPlaylis(object, artist)
