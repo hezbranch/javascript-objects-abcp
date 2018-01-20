@@ -9,4 +9,6 @@ var myPlaylist =  { artist:[song]}
 
 }
 
-function removeFromPlaylis(object, artist) 
+function removeFromPlaylis(object, artist) {
+  
+}
