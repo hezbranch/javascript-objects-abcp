@@ -10,7 +10,7 @@ var myPlaylist = { artist:[song]}
 }
 
 function removeFromPlaylist(object, artist) {
- playlist = {Object, song}
+var playlist
   playlist.delete()
 
 }
