@@ -1,4 +1,3 @@
 
-var playlist = {Object: "24K Magic"}
-var Object = "Bruno Mars";
+var playlist = { Bruno Mars: "24K Magic"}
 
