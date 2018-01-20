@@ -1,2 +1,2 @@
 
-var playlist = { artistName: songTitle}
+var playlist = {Object: "24K Magic"}
