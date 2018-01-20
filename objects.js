@@ -10,6 +10,7 @@ var myPlaylist = { artist:[song]}
 }
 
 function removeFromPlaylist(object, artist) 
-  removeFromPlaylist.delete()
+var playlist = {}
+  playlist.delete()
   
 }
