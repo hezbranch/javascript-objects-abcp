@@ -5,8 +5,8 @@ var song = ['Grenade']
 var playlist = { [artist] : song}
 
 function updatePlaylist(playlist, artist, song){
-var myPlaylist = { artist:[song]}
-
+playlist[song]
+return(playlist)
 }
 
 function removeFromPlaylist(playlist, artist) {
